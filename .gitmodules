@@ -1,0 +1,6 @@
+[submodule "blue-lotus-light-syntax"]
+	path = blue-lotus-light-syntax
+	url = https://github.com/yashprit/blue-lotus-light-syntax
+[submodule "blue-lotus-light-ui"]
+	path = blue-lotus-light-ui
+	url = https://github.com/yashprit/blue-lotus-light-ui
